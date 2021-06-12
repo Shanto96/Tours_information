@@ -174,7 +174,7 @@ main {
 .single-tour {
   background: var(--clr-white);
   border-radius: var(--radius);
-  margin: 2rem 0;
+  margin: 2rem 35%;
   box-shadow: var(--light-shadow);
   transition: var(--transition);
 }
